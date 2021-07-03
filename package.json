@@ -1,0 +1,24 @@
+{
+	"name": "@raunak96/is-password",
+	"version": "1.0.1",
+	"description": "Is the String password?",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/raunak96/first-npm-package.git"
+	},
+	"keywords": [
+		"password",
+		"String",
+		"JS"
+	],
+	"author": "raunak96",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/raunak96/first-npm-package/issues"
+	},
+	"homepage": "https://github.com/raunak96/first-npm-package#readme"
+}
