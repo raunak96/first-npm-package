@@ -1,10 +1,6 @@
 {
 	"name": "@raunak96/is-password",
-<<<<<<< HEAD
 	"version": "1.0.2",
-=======
-	"version": "1.0.1",
->>>>>>> fbcbcfc35c21a2190eac20948ceb203c9a456d4e
 	"description": "Is the String password?",
 	"main": "index.js",
 	"scripts": {
